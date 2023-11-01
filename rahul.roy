@@ -1,0 +1,4 @@
+git clone https://github.com/SPY1x1FB/SRX
+cd SRX
+git pull
+python srx.py
